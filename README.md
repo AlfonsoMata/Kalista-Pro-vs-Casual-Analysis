@@ -1,7 +1,7 @@
 # Balance & Performance: Kalista (LoL)
 > **League of Legends Esports & Player Analytics**
 
-## 📌 Resumen del Proyecto
+##  Resumen del Proyecto
 Kalista presenta una de las brechas de rendimiento más marcadas en League of Legends: un kit de habilidades optimizado para la coordinación de alto nivel que genera dominancia en Pro Play, pero que castiga drásticamente la ejecución mecánica y la falta de sinergia en SoloQueue (Low/Mid Elo).
 
 ---
@@ -11,7 +11,7 @@ Se extrajeron e integraron datos masivos de partidas vía **Leaguepedia API** y 
 
 ---
 
-## 📊 Hallazgos Clave
+##  Hallazgos Clave
 
 ### 1. Sesgo de Elo y Win Rate
 - **Win Rate Asimétrico:** **45.2%** en rangos bajos (Hierro-Oro) frente al **54.8%** en Challenger / Pro Play.
@@ -36,14 +36,14 @@ Se extrajeron e integraron datos masivos de partidas vía **Leaguepedia API** y 
 
 ---
 
-## 💡 Insights Accionables
+##  Insights Accionables
 - **Ajustes de Balance:** Transferir poder de la definitiva (*mecanismo defensivo/coordinado*) hacia estadísticas base individuales para estabilizar su desempeño en rangos bajos.
 - **Optimización de Matchmaking:** Implementar métricas de sinergia de duo-queue en los modelos predictivos para anticipar picos atípicos de win rate.
 - **Diseño de Campeones:** Utilizar el caso Kalista como estándar interno para evitar kits con "pro-jail" en el desarrollo de futuros tiradores.
 
 ---
 
-## 📁 Estructura del Repositorio
+##  Estructura del Repositorio
 
 ```text
 kalista-esports-analytics/
