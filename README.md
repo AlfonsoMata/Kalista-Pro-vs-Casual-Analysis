@@ -6,7 +6,7 @@ Kalista presenta una de las brechas de rendimiento más marcadas en League of Le
 
 ---
 
-## 🛠️ Alcance Técnico
+##  Alcance Técnico
 Se extrajeron e integraron datos masivos de partidas vía **Leaguepedia API** y **Riot Games API**. Se realizó un análisis comparativo de métricas de carril, curvas de win rate por rango y un modelado predictivo/descriptivo para evaluar el impacto de la coordinación de equipo frente a la habilidad individual.
 
 ---
